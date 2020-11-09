@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "53d7064bcd14144b93a96da691b2885d",
+        "name": "000059.jpg",
+        "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000059.jpg",
+        "size": {
+            "width": 320,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DPLqTiSME",
+            "type": "RECTANGLE",
+            "tags": [
+                "item"
+            ],
+            "boundingBox": {
+                "height": 305.203340578212,
+                "width": 210.1392757660167,
+                "left": 27.855153203342613,
+                "top": 12.122564714267059
+            },
+            "points": [
+                {
+                    "x": 27.855153203342613,
+                    "y": 12.122564714267059
+                },
+                {
+                    "x": 237.99442896935932,
+                    "y": 12.122564714267059
+                },
+                {
+                    "x": 237.99442896935932,
+                    "y": 317.3259052924791
+                },
+                {
+                    "x": 27.855153203342613,
+                    "y": 317.3259052924791
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

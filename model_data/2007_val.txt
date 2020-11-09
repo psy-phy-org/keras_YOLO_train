@@ -1,0 +1,1 @@
+C:\Users\takam\repository\keras_yolo\keras-yolo3-sample/VOCDevkit/VOC2007/JPEGImages/000075.jpg 21,41,210,315,0

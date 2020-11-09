@@ -1,0 +1,285 @@
+{
+    "name": "item",
+    "securityToken": "item Token",
+    "sourceConnection": {
+        "name": "maneki",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDg3ZTExNjc0ZTE5ZDk1MDJiOGYwZTMxYTcwZTQxMGQxNWRjZTIwMmQyZWU3ZjAwZjUyMDcyYTNlZDQxZTBmYTZkNjEzZWI3MzhjMTQzZGJmZTI1ZTdlOWE1ZGU4NTMzYmZjMTJlMWU5MjIzNDUxZjFmZGQ1Yzc1MmE2ZjU3MWY3YzY1Y2Q5YWY1NTdlYTc4MjgyMzAyM2U2Nzg4YzA5NDI2N2Y3YjA4ZTcyY2M2NDgxYTg5NzQ4Zjg2MmFjZGM4IiwiaXYiOiIzMWY0ZGZiY2M0MTAwNTdiNDcwY2U0YzVjMTg0M2NmOTQ5ODkwMzQ0NjlhYmE1ZjEifQ=="
+        },
+        "id": "xktZFbnap"
+    },
+    "targetConnection": {
+        "name": "maneki",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDVkN2QyMGRjNTY2MzlkOTk2ZTQwNTdmNDFjMjVlNDBhMGZlYTUxODc1MzFmOTNlNGViYWIxNjc4NWNiZjM3MTNmNGU1Yzg5NTY5OWFlZGY0NTZmMzc1ZmUzN2QzZWIyZDRiMTg0Mzg3MTBmYzRlNzdjNjVkNDNhNmRjMGU2ZDI4MzcwNjU5ZDFjZjNjYjZiYThmOTNiNWU5MWY3MDA3MTVlYzYyNjgxZDQ0NTA0YmYzNzBhY2JlNzMwYmY1ZjNiIiwiaXYiOiJhNzdlZTgwN2M0ODQ4NjU3ZDEwNmJmMWI5NjRjNjY0YmE5ODlhOWYwYTMwMzdkYWIifQ=="
+        },
+        "id": "xktZFbnap"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "item",
+            "color": "#5db300"
+        }
+    ],
+    "id": "XzAVJai3i",
+    "activeLearningSettings": {
+        "modelPathType": "coco",
+        "autoDetect": false,
+        "predictTag": false
+    },
+    "exportFormat": {
+        "providerType": "pascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzcxMjdmYjA1YTI2ZjAzMzVjOTkyZTY0NWE3OGZjNDk2MTgzYzAxZGVmM2U4OGY0M2MwZDI0MTI1ZDJkOTBkYmJjMTg5Zjk5OGY1NDU2ZWVlZmRhNzA1YjBhOTdiN2NmZmE1M2Y0Y2MyNGZjMTlkZjRhZTRkNDEyZjE5ZDc2ZjFjZWM5MmExMTYxOTg1YTdiMDFiY2NhMWQwNjU2YzEwOCIsIml2IjoiY2RlNjg5ZmNjNzA0ODI2ZTJhZTg5NTRlYzM2MGY3ZjlhODJlZmNiYmEyOGY4MjA1In0="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "74ac543d4121d952bc414f56a039a40b",
+    "assets": {
+        "80525ffc08afb01098f2166bc33b8b06": {
+            "format": "jpg",
+            "id": "80525ffc08afb01098f2166bc33b8b06",
+            "name": "000002.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000002.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "927f9d5a5999fa9b6cb808d41dbe1ef7": {
+            "format": "jpg",
+            "id": "927f9d5a5999fa9b6cb808d41dbe1ef7",
+            "name": "000006.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000006.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5dad0c1999db46b5f9060a157aef976": {
+            "format": "jpg",
+            "id": "e5dad0c1999db46b5f9060a157aef976",
+            "name": "000007.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000007.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9332de522c21d8212ee3ce75372cb063": {
+            "format": "jpg",
+            "id": "9332de522c21d8212ee3ce75372cb063",
+            "name": "000008.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000008.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c621e6b3d87547da968a6a2f0de9d3ba": {
+            "format": "jpg",
+            "id": "c621e6b3d87547da968a6a2f0de9d3ba",
+            "name": "000010.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000010.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "881a150f85e87f883bd41d1c2e02dff4": {
+            "format": "jpg",
+            "id": "881a150f85e87f883bd41d1c2e02dff4",
+            "name": "000013.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000013.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a3e4e447c7a1b3cebe1c0744c6cf3b16": {
+            "format": "jpg",
+            "id": "a3e4e447c7a1b3cebe1c0744c6cf3b16",
+            "name": "000015.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000015.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "77627312b9db75e322ffcd60864d968a": {
+            "format": "jpg",
+            "id": "77627312b9db75e322ffcd60864d968a",
+            "name": "000018.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000018.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2fa960ec7dca9fb64d98021ba079b1c5": {
+            "format": "jpg",
+            "id": "2fa960ec7dca9fb64d98021ba079b1c5",
+            "name": "000022.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000022.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b7a62199790e296705a281ba178af39a": {
+            "format": "jpg",
+            "id": "b7a62199790e296705a281ba178af39a",
+            "name": "000026.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000026.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "849fb1dbe5d9127235fce087f4f5b38c": {
+            "format": "jpg",
+            "id": "849fb1dbe5d9127235fce087f4f5b38c",
+            "name": "000029.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000029.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60b442d8f4289c13f12fd6371c8349ba": {
+            "format": "jpg",
+            "id": "60b442d8f4289c13f12fd6371c8349ba",
+            "name": "000036.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000036.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c1e96cf10f3b0f7d11305416665753fe": {
+            "format": "jpg",
+            "id": "c1e96cf10f3b0f7d11305416665753fe",
+            "name": "000054.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000054.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4fc7ed8a078aeafbe69c94c4e25fbe1d": {
+            "format": "jpg",
+            "id": "4fc7ed8a078aeafbe69c94c4e25fbe1d",
+            "name": "000056.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000056.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53d7064bcd14144b93a96da691b2885d": {
+            "format": "jpg",
+            "id": "53d7064bcd14144b93a96da691b2885d",
+            "name": "000059.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000059.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cd8fa3435a2fe0dc028fb04a26f2e47": {
+            "format": "jpg",
+            "id": "8cd8fa3435a2fe0dc028fb04a26f2e47",
+            "name": "000061.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000061.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c435eed13b634af744683e5747eb572b": {
+            "format": "jpg",
+            "id": "c435eed13b634af744683e5747eb572b",
+            "name": "000062.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000062.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19d56d77012b8b873ee1f58ea719998e": {
+            "format": "jpg",
+            "id": "19d56d77012b8b873ee1f58ea719998e",
+            "name": "000064.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000064.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b501e0f7c8e364bae32d8673d2473ef": {
+            "format": "jpg",
+            "id": "1b501e0f7c8e364bae32d8673d2473ef",
+            "name": "000072.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000072.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74ac543d4121d952bc414f56a039a40b": {
+            "format": "jpg",
+            "id": "74ac543d4121d952bc414f56a039a40b",
+            "name": "000075.jpg",
+            "path": "file:C:/Users/takam/repository/keras_yolo/keras-yolo3-sample/resize_image/000075.jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

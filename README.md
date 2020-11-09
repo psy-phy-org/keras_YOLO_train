@@ -1,2 +1,2 @@
 # keras_yolo
-keras yolo
+YOLO fine tuning

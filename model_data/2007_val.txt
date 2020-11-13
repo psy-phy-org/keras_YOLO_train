@@ -1,5 +1,5 @@
-C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000164.jpg 30,51,211,281,0
-C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000139.jpg 94,37,221,186,0
-C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000158.jpg 38,137,204,303,0
-C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000148.jpg 221,45,318,138,0
-C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000136.jpg 54,15,258,202,0
+VOCDevkit/VOC2007/JPEGImages/000164.jpg 30,51,211,281,0
+VOCDevkit/VOC2007/JPEGImages/000139.jpg 94,37,221,186,0
+VOCDevkit/VOC2007/JPEGImages/000158.jpg 38,137,204,303,0
+VOCDevkit/VOC2007/JPEGImages/000148.jpg 221,45,318,138,0
+VOCDevkit/VOC2007/JPEGImages/000136.jpg 54,15,258,202,0

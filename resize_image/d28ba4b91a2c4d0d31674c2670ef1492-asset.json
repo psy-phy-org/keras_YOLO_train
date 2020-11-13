@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d28ba4b91a2c4d0d31674c2670ef1492",
+        "name": "000048.jpg",
+        "path": "file:C:/Users/takam/repository/keras_yolo/resize_image/000048.jpg",
+        "size": {
+            "width": 320,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "XbaoujYbJC",
+            "type": "RECTANGLE",
+            "tags": [
+                "item"
+            ],
+            "boundingBox": {
+                "height": 177.5549169237567,
+                "width": 171.17193200794097,
+                "left": 67.29805013927574,
+                "top": 2.0551109313964844
+            },
+            "points": [
+                {
+                    "x": 67.29805013927574,
+                    "y": 2.0551109313964844
+                },
+                {
+                    "x": 238.46998214721674,
+                    "y": 2.0551109313964844
+                },
+                {
+                    "x": 238.46998214721674,
+                    "y": 179.6100278551532
+                },
+                {
+                    "x": 67.29805013927574,
+                    "y": 179.6100278551532
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

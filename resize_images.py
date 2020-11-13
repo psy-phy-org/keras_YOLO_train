@@ -33,10 +33,9 @@ def _main():
     images_dir = 'images/'  # input directory
     image_save_dir = 'resize_image/'  # output directory
     image_size = 320
-    """
     if len(sys.argv) > 1:
         image_size = int(sys.argv[1])
-    """
+
     resize_images(images_dir=images_dir, image_save_dir=image_save_dir, image_size=image_size)
 
 

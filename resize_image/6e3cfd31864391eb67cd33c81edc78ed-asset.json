@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6e3cfd31864391eb67cd33c81edc78ed",
+        "name": "000142.jpg",
+        "path": "file:C:/Users/takam/repository/keras_yolo/resize_image/000142.jpg",
+        "size": {
+            "width": 320,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "SpG7-8diYR",
+            "type": "RECTANGLE",
+            "tags": [
+                "item"
+            ],
+            "boundingBox": {
+                "height": 49.36391442599071,
+                "width": 56.91309865138657,
+                "left": 60.30138602827917,
+                "top": 78.8857938718663
+            },
+            "points": [
+                {
+                    "x": 60.30138602827917,
+                    "y": 78.8857938718663
+                },
+                {
+                    "x": 117.21448467966573,
+                    "y": 78.8857938718663
+                },
+                {
+                    "x": 117.21448467966573,
+                    "y": 128.249708297857
+                },
+                {
+                    "x": 60.30138602827917,
+                    "y": 128.249708297857
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

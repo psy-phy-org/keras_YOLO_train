@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>000031.jpg</filename>
+    <path>item-PascalVOC-export/Annotations/000031.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>item</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>135.53204974756267</xmin>
+        <ymin>4.991645494211351</ymin>
+        <xmax>284.211704604805</xmax>
+        <ymax>135.4874651810585</ymax>
+    </bndbox>
+</object>
+</annotation>

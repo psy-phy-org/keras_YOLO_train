@@ -1,4 +1,12 @@
-C:\Users\takam\repository\keras_yolo\keras-yolo3-sample/VOCDevkit/VOC2007/JPEGImages/000075.jpg 21,41,210,315,0
-C:\Users\takam\repository\keras_yolo\keras-yolo3-sample/VOCDevkit/VOC2007/JPEGImages/000062.jpg 43,5,261,315,0
-C:\Users\takam\repository\keras_yolo\keras-yolo3-sample/VOCDevkit/VOC2007/JPEGImages/000064.jpg 64,21,253,269,0
-C:\Users\takam\repository\keras_yolo\keras-yolo3-sample/VOCDevkit/VOC2007/JPEGImages/000072.jpg 51,12,253,307,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000164.jpg 30,51,211,281,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000154.jpg 44,128,217,316,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000137.jpg 44,115,126,201,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000160.jpg 73,96,182,203,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000135.jpg 79,45,214,177,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000126.jpg 1,178,125,300,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000138.jpg 99,106,216,212,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000134.jpg 31,5,266,313,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000142.jpg 60,78,117,128,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000146.jpg 0,29,179,192,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000125.jpg 50,4,265,211,0
+C:\Users\takam\repository\keras_yolo/VOCDevkit/VOC2007/JPEGImages/000159.jpg 177,33,307,152,0

@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a3ec7d405e0cae13f5b4016df045a56b",
+        "name": "000092.jpg",
+        "path": "file:C:/Users/takam/repository/keras_yolo/resize_image/000092.jpg",
+        "size": {
+            "width": 320,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "Gpsann_91",
+            "type": "RECTANGLE",
+            "tags": [
+                "item"
+            ],
+            "boundingBox": {
+                "height": 75.58774645282033,
+                "width": 83.7883008356546,
+                "left": 180.94707520891365,
+                "top": 101.61559888579387
+            },
+            "points": [
+                {
+                    "x": 180.94707520891365,
+                    "y": 101.61559888579387
+                },
+                {
+                    "x": 264.7353760445682,
+                    "y": 101.61559888579387
+                },
+                {
+                    "x": 264.7353760445682,
+                    "y": 177.2033453386142
+                },
+                {
+                    "x": 180.94707520891365,
+                    "y": 177.2033453386142
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

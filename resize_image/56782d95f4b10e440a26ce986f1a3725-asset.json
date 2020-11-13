@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "56782d95f4b10e440a26ce986f1a3725",
+        "name": "000080.jpg",
+        "path": "file:C:/Users/takam/repository/keras_yolo/resize_image/000080.jpg",
+        "size": {
+            "width": 320,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "SUMVtvnYT",
+            "type": "RECTANGLE",
+            "tags": [
+                "item"
+            ],
+            "boundingBox": {
+                "height": 150.81895238509748,
+                "width": 157.59333108461,
+                "left": 68.63509749303621,
+                "top": 60.61281337047354
+            },
+            "points": [
+                {
+                    "x": 68.63509749303621,
+                    "y": 60.61281337047354
+                },
+                {
+                    "x": 226.22842857764624,
+                    "y": 60.61281337047354
+                },
+                {
+                    "x": 226.22842857764624,
+                    "y": 211.43176575557104
+                },
+                {
+                    "x": 68.63509749303621,
+                    "y": 211.43176575557104
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

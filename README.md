@@ -49,7 +49,7 @@ optional arguments:
 
 4. MultiGPU usage: use `--gpu_num N` to use N GPUs. It is passed to the [Keras multi_gpu_model()](https://keras.io/utils/#multi_gpu_model).
 
-### Colab file
+### Google Colab file sample
 https://colab.research.google.com/drive/1rpkQo9wMRZi7YLU8zMxfaprw2gTxevOy
 
 ## Training
